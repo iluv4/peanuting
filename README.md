@@ -81,7 +81,7 @@ MixMix 라는 이름처럼, 다양한 국적의 유학생들이 언어의 장벽
 <br/>
 
 ## ☁️ 팀원 구성
-| **최인호** | **차서윤** | **김지원** | **최도현** | **천현주** | **김민상** |
+| **d** | **d** | **d** | **d** | **d** | **d** |
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | <img src="https://avatars.githubusercontent.com/u/129029251?v=4" width="150"> | <img src="https://avatars.githubusercontent.com/u/145275007?v=4" width="150"> | <img src="https://avatars.githubusercontent.com/u/130336930?v=4" width="150"> | <img src="https://avatars.githubusercontent.com/u/74049556?v=4" width="150"> | <img src="https://avatars.githubusercontent.com/u/141122644?v=4" width="150"> | <img src="https://avatars.githubusercontent.com/u/176256675?v=4" width="150"> |
 | BE | BE | FE | FE | Designer | PM |
